@@ -3,9 +3,7 @@
 ## ⚠️ Do NOT use the green "Code" button to download this plugin
 
 The green **Code > Download ZIP** button (and the auto-generated "Source code"
-files on the Releases page) will **not** install correctly in Moodle. They
-wrap everything in an extra folder named after this repo, and Moodle requires
-the plugin's top-level folder to be named exactly `reportcard`.
+files on the Releases page) will **not** install correctly in Moodle. 
 
 ## ✅ Install from the Releases page instead
 
